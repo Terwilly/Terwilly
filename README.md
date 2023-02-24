@@ -1,7 +1,7 @@
 <h1 align ="center">Terwilly Sylvain 👋</h1>
 <h3 align ="center">I'm a Web developer, Designer - a son, a brother, a lover</h3>
 
-. | .
+&nbsp; | &nbsp;
 |----|-----|
 ✨ _special_ ✨ |![](https://media.licdn.com/dms/image/C5603AQEXVTYlvv-jAA/profile-displayphoto-shrink_800_800/0/1570554277870?e=1682553600&v=beta&t=pV9p076APJu8jI5nPJ8ryws40JUeOOyqWGq0xJSdBxI)|
 - 🔭 I’m currently working on myself. To be more succesfull 
