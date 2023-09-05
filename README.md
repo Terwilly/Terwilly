@@ -10,4 +10,4 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Web development, Production audio/vidéo and Design
 - 📫 How to reach me: sylvainterwilly@gmail.com
-- ⚡ Fun fact: I'm kind with childish mind. | 
+- ⚡ Fun fact: I'm kind with a childish mind. | 
